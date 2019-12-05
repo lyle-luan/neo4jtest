@@ -1,0 +1,83 @@
+﻿n
+{name:Apple}
+{name:iPhone}
+{name:Bluetooth}
+"{priceUnit:US dollar,launchPrice:[499,599],releaseWithOS:iPhone OS 1.0,endedDate:""2010-06-20"",releaseDate:""2007-06-29"",name:iPhone,discontinuedDate:""2008-06-09"",finalOS:iPhone OS 3.1.3}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:""2017-09-18"",releaseWithOS:iOS 6.0,releaseDate:""2012-09-21"",name:iPhone 5,discontinuedDate:""2013-09-10"",finalOS:iOS 10.3.3}"
+"{priceUnit:US dollar,launchPrice:[299,399,499,749,849,949],endedDate:""2019-10-28"",releaseWithOS:iOS 8.0,releaseDate:""2014-09-19"",name:iPhone 6 Plus,discontinuedDate:""2016-09-07"",finalOS:iOS 12.4.3}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:current,releaseWithOS:iOS 9.0.1,releaseDate:""2015-09-25"",name:iPhone 6S,discontinuedDate:""2018-09-12"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:current,releaseWithOS:iOS 10.0,releaseDate:""2016-09-16"",name:iPhone 7,discontinuedDate:""2019-09-10"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[319,419,519,769,869,969],endedDate:current,releaseWithOS:iOS 10.0,releaseDate:""2016-09-16"",name:iPhone 7 Plus,discontinuedDate:""2019-09-10"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[699,849],endedDate:current,releaseWithOS:iOS 11.0,releaseDate:""2017-09-22"",name:iPhone 8,discontinuedDate:still,finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[999,1149,1349],endedDate:current,releaseWithOS:iOS 12.0,releaseDate:""2018-09-21"",name:iPhone XS,discontinuedDate:""2019-09-10"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[749,799,899],endedDate:current,releaseWithOS:iOS 12.0,releaseDate:""2018-10-26"",name:iPhone XR,discontinuedDate:still,finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[1099,1249,1449],releaseWithOS:iOS 13.0,endedDate:current,releaseDate:""2019-09-20"",name:iPhone 11 Pro Max,discontinuedDate:still,finalOS:latest iOS}"
+{name:Apple Watch}
+{name:Beats}
+{name:iPod touch}
+{name:AirPods Pro}
+{name:Charging IC}
+"{name:Apple,code:AAPL}"
+{name:Mac}
+"{priceUnit:US dollar,launchPrice:[199,299,599,699],endedDate:""2013-09-18"",releaseWithOS:iPhone OS 3.0,releaseDate:""2009-06-19"",name:iPhone 3GS,discontinuedDate:""2012-09-12"",finalOS:iOS 6.1.6}"
+"{priceUnit:US dollar,launchPrice:[199,299,649,749],endedDate:""2014-09-17"",releaseWithOS:iOS 4.0,releaseDate:""2010-06-21"",name:iPhone 4,discontinuedDate:""2013-09-10"",finalOS:iOS 7.1.2}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:""2016-09-12"",releaseWithOS:iOS 5.0,releaseDate:""2011-10-14"",name:iPhone 4S,discontinuedDate:""2014-09-09"",finalOS:iOS 9.3.5}"
+"{priceUnit:US dollar,launchPrice:[99,199,549,649],endedDate:""2017-09-18"",releaseWithOS:iOS 7.0,releaseDate:""2013-09-20"",name:iPhone 5C,discontinuedDate:""2015-09-09"",finalOS:iOS 10.3.3}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:""2019-10-28"",releaseWithOS:iOS 7.0,releaseDate:""2013-09-20"",name:iPhone 5S,discontinuedDate:""2016-03-21"",finalOS:iOS 12.4.3}"
+"{priceUnit:US dollar,launchPrice:[199,299,399,649,749,849],endedDate:""2019-10-28"",releaseWithOS:iOS 8.0,releaseDate:""2014-09-19"",name:iPhone 6,discontinuedDate:""2016-09-07"",finalOS:iOS 12.4.3}"
+"{priceUnit:US dollar,launchPrice:[299,399,499,749,849,949],endedDate:current,releaseWithOS:iOS 9.0.1,releaseDate:""2015-09-25"",name:iPhone 6S Plus,discontinuedDate:""2018-09-12"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[399,499],endedDate:current,releaseWithOS:iOS 9.3,releaseDate:""2016-03-31"",name:iPhone SE,discontinuedDate:""2018-09-12"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[799,949],endedDate:current,releaseWithOS:iOS 11.0,releaseDate:""2017-09-22"",name:iPhone 8 Plus,discontinuedDate:still,finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[549,699,999,1149],endedDate:current,releaseWithOS:iOS 11.1,releaseDate:""2017-11-03"",name:iPhone X,discontinuedDate:""2018-09-12"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[1099,1249,1449],endedDate:current,releaseWithOS:iOS 12.0,releaseDate:""2018-09-21"",name:iPhone XS Max,discontinuedDate:""2019-09-10"",finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[699,749,849],endedDate:current,releaseWithOS:iOS 13.0,releaseDate:""2019-09-20"",name:iPhone 11,discontinuedDate:still,finalOS:latest iOS}"
+"{priceUnit:US dollar,launchPrice:[999,1149,1349],endedDate:current,releaseWithOS:iOS 13.0,releaseDate:""2019-09-20"",name:iPhone 11 Pro,discontinuedDate:still,finalOS:latest iOS}"
+{name:AirPods 1}
+{name:Microphones}
+{name:AirPods}
+{name:Wireless Charging Case}
+{name:Headset}
+{name:iPad}
+"{name:Wearables, Home and Accessories}"
+{name:Audio decoder}
+"{priceUnit:US dollar,launchPrice:[199,299,499],endedDate:""2011-03-03"",releaseWithOS:iPhone OS 2.0,releaseDate:""2008-07-11"",name:iPhone 3G,discontinuedDate:""2010-08-09"",finalOS:iOS 4.2.1}"
+{name:Goertek}
+{name:Button cell battery}
+{name:Apple TV}
+{name:HomePod}
+{name:Apple-branded and third-party accessories}
+{name:AirPods 2}
+{name:Programmable SOC}
+{name:3-axis accelerometer}
+{name:6-axis IMU}
+{name:Nor Flash}
+{name:USB Charging IC}
+{name:Power Management IC}
+{name:Wireless Charging IC}
+{name:DC/DC}
+{name:Battery}
+{name:MEMS and Sensors}
+{name:Battery Management ICs}
+{name:Battery Chargers}
+{name:Accelerometers}
+{name:Texas Instruments}
+{name:MCU}
+{name:Optical Component Module}
+{name:STMicroelectronics}
+{name:Microcontrollers & Microprocessors}
+{name:Power Management}
+{name:STM32 32-bit Arm Cortex MCUs}
+{name:STM32 Ultra Low Power MCUs}
+{name:STM32L4 Series}
+{name:STM32L4x6}
+{name:STM32L476MG}
+{name:Power management}
+{name:Battery management}
+{name:Battery charger ICs}
+{name:DC/DC switching regulators}
+"{name:歌尔股份,code:002241}"
+{name:Sensors}
+{name:Microphones}
+{name:Speaker & Receiver}
+{name:Loud Speaker}
+{name:Antenna}
